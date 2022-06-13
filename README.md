@@ -4,4 +4,4 @@ The back-end frameworks that I have worked with are Spring Framework and Spring 
 I have worked on both monolithic and micro-service architectures.
 
 My goal is to master the above technologies so I can develop full stack applications of my own.
-I am open to leanring new technologies as needs arise.
+I am open to learning new technologies as needs arise.
